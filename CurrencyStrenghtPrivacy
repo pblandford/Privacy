@@ -1,0 +1,2 @@
+This app collects your Firebase Messaging Token, so that you can receive alerts about currency movements. It is used solely for the purpose of sending push notifications, and is not shared.
+
