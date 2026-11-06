@@ -1,0 +1,116 @@
+# MeloScore Privacy Policy
+
+**Last updated: 6 November 2026**
+
+MeloScore is a music notation application developed by Phil Blandford. This policy explains how personal information is collected, used and protected when you use MeloScore.
+
+## 1. Information We Collect
+
+Depending on the features you use, MeloScore may process:
+
+- **Account information:** Your name, email address and account identifier when you sign in using a supported authentication provider.
+- **Musical scores:** Scores you create, import or edit, stored locally on your device or on our servers when you use cloud storage or synchronisation.
+- **Technical information:** Device characteristics, application version, diagnostic information and error reports.
+- **Usage analytics:** When enabled, information about application usage, feature interactions, performance and errors, stored using Google Cloud Firestore.
+- **Optional score quality-control data:** Musical scores you explicitly agree to share with the developer for testing and improving notation quality.
+
+## 2. How We Use Your Information
+
+We process information to:
+
+- Authenticate users and manage accounts.
+- Store and synchronise musical scores.
+- Provide access to licensed features.
+- Diagnose errors and improve reliability.
+- Understand application usage and performance.
+- Investigate notation and engraving problems where users have explicitly consented.
+
+We do not sell personal information or use it for targeted advertising.
+
+## 3. Optional Score Quality-Control Programme
+
+MeloScore may offer an optional programme allowing users to contribute musical scores for quality improvement.
+
+Participation is voluntary and is not required to use the application.
+
+When the programme is available:
+
+- Users will be asked for explicit consent before their scores are contributed.
+- Contributed scores may be inspected by the developer to identify notation errors, layout defects and other problems.
+- Scores will not be published, sold or shared with other users as part of this programme.
+- Users may withdraw their consent at any time.
+- Withdrawal will stop further collection under the programme. Previously contributed scores will be deleted where applicable, subject to lawful retention requirements explained to the user.
+
+Scores stored for synchronisation are not automatically made available for developer quality-control inspection.
+
+## 4. Analytics and Diagnostics
+
+MeloScore plans to use Google Cloud Firestore to store application usage and diagnostic events.
+
+These events may include application version, device characteristics, feature usage, performance measurements and error information.
+
+Analytics are intended to help improve application reliability and usability, not to identify users for advertising purposes.
+
+Musical score content will not be included in analytics events unless the user has separately consented to sharing scores for quality control.
+
+## 5. Storage and International Data Transfers
+
+MeloScore's application server and primary database are hosted on a Vultr virtual private server located in New Jersey, United States.
+
+Account information and musical scores stored through MeloScore's cloud services are processed on this server.
+
+Usage analytics, when introduced, will be stored separately using Google Cloud Firestore. The location of that data will depend on the configured Firestore database region.
+
+We use encrypted network connections and access controls to protect information.
+
+Where personal information is transferred outside the United Kingdom or European Economic Area, we will use applicable legal safeguards as required by data protection law.
+
+## 6. Third-Party Services
+
+MeloScore uses or may use:
+
+- **Vultr:** Application hosting and primary database infrastructure.
+- **Google:** Authentication and, when introduced, Cloud Firestore analytics storage.
+- **Apple:** Application distribution and associated platform services.
+
+We do not sell personal information to third parties.
+
+## 7. Sharing of Information
+
+We do not sell or rent personal information.
+
+Information may be shared with service providers where necessary to operate MeloScore or where required by law.
+
+Musical scores are not made public unless users explicitly choose to share or publish them through an available feature.
+
+## 8. Children's Privacy and Educational Use
+
+MeloScore may be used in educational settings.
+
+We aim to minimise the personal information collected from pupils and other users and do not use children's personal information for targeted advertising.
+
+The optional score quality-control programme will not be enabled for school-managed accounts unless appropriate consent and institutional arrangements have been established.
+
+## 9. Data Retention and Deletion
+
+Personal information is retained only as long as necessary for the purposes described in this policy, subject to applicable legal obligations.
+
+Users may request deletion of their accounts and associated personal information by contacting the developer.
+
+Users who have contributed scores for quality control may withdraw their consent and request deletion of previously contributed scores.
+
+## 10. Your Rights
+
+Depending on applicable law, users may have rights to access, correct, export, restrict processing of or request deletion of personal information.
+
+UK and European users may also have rights to object to certain processing and complain to the relevant data protection authority.
+
+## 11. Changes to This Policy
+
+We may update this policy as MeloScore develops. Material changes will be communicated where required by law.
+
+## 12. Contact
+
+**Developer:** Phil Blandford
+
+**Privacy contact:** [Insert contact email]
